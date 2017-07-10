@@ -31,7 +31,7 @@ Let's start by unzipping the project folder, anywhere will do. For the sake of t
 In the Command Line, navigate to the project folder by inputting the following command and pressing enter. Don't forget to replace YOURUSERNAME with the username you chose for yourself on your computer.
 
 ```
-cd C:\Users\YOURUSERNAMEHERE\Desktop\behaviorTestEstefaniaTastan
+cd C:\Users\YOURUSERNAMEHERE\Desktop\behaviorInteractiveTestEstefaniaTastan
 ```
 
 Once this is done, input the following command to install all the dependencies associated to the project by inputting the following command:
@@ -62,7 +62,7 @@ Before we can see our application in action, we'll need to build our files, and 
 For this step we'll need to open another Command Line Window. Navigate to the same folder we were at in the previous window. Again, you may do so using this command:
 
 ```
-cd C:\Users\YOURUSERNAMEHERE\Desktop\behaviorTestEstefaniaTastan
+cd C:\Users\YOURUSERNAMEHERE\Desktop\behaviorInteractiveTestEstefaniaTastan
 ```
 
 Once here, let's build our application by inputting the following command:
